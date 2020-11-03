@@ -75,7 +75,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Cloud Technologies</h3>
-                    <p>Amazon S3, DynamoDB,mr muske, Lambdas</p>
+                    <p>Amazon S3, DynamoDB,mr muske, mr muske again Lambdas</p>
                 </div>
                 </div>
             </div>
