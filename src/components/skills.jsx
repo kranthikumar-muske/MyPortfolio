@@ -31,7 +31,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Development Tools</h3>
-                    <p>GitHub, SVN, Maven, Jenkins, <br/>Eclipse, IntelliJ</p>
+                    <p>GitHub, SVN, Maven, Jenkins, <br/>Eclipse, IntelliJ, Docker</p>
                 </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Database Technologies</h3>
-                    <p>SQL, Oracle, CCL(Cerner Command Language)</p>
+                    <p>SQL, Oracle, CCL(Cerner Command Language), <br/> No-SQL</p>
                 </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>UI Technologies</h3>
-                    <p>SWT, JFace, HTML, JavaScript</p>
+                    <p>SWT, JFace, HTML, JavaScript, <br/>ReactJs</p>
                 </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Cloud Technologies</h3>
-                    <p>Amazon S3, DynamoDB,mr muske, mr muske again Lambdas</p>
+                    <p>Amazon S3, Lambdas, DynamoDB, <br/> API Gateway</p>
                 </div>
                 </div>
             </div>
