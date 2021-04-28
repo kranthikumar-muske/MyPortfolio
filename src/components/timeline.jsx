@@ -22,7 +22,15 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Associate Senior Software Engineer at Cerner Corporation <span>Nov 2017-present</span></h2>
-                        <p>Current project focuses on improving the scalability of the Cerner Millennium System.
+                        <p>Current Projects:<br/>
+                        <u>Project#1</u>: The goal of this project is to provide consumers(cerner millennium teams) various services, API's which serves them to perform 
+                        Read, Write, Update, Delete on the Clinical Event Model. This Clinical Event Data model is responsible for holding almost 50% of EHR information such as testing, treatment
+                        and diagnostic events that are stored as clinical events. Millennium solutions teams request EHR information from this clinical event model and there are many ways the clinicians
+                        can view the data. Our team provides many Java services and API's to support the different ways the clinicians requests for the result data.
+                        Overall, I'm a senior engineer on this millennium backend services team who is responsible for developing the enterprise java services and API's efficiently and safely. 
+                        The Tech stack we use to develop the services are Java8, Enterprise Java service(EJS), JDBC, Hibernate, SQL, Google Guice and cucumber for integration tests. 
+                        <br/>
+                        <u>Project#2</u>: This project focuses on improving the scalability of the Cerner Millennium System.
                         The Goal of the project is to reduce the Oracle usage and the cost by moving clinical documents(BLOB Data) from Oracle Clinical tables to AWS Simple Storage Service(S3).
                         Working on developing JAVA, CCL(Cerner Command Language), Rest Service API's for consumers being Cerner Millennium Teams.
                         These api's help Cerner Millennium teams to read, write, update and delete clinical documents data from AWS S3 with no need of AWS S3 implementation or knowledge.
@@ -55,7 +63,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Graduate at University Of Central Missouri <span>Aug 2014 - Dec 2015</span></h2>
-                        <p>Master's in Computer Science with intrest inclined towards Data Structures and Algorithms.
+                        <p>Master's in Computer Science with interest inclined towards Data Structures and Algorithms.
                          Worked as graduate Teaching Assistant and Research student under Dr. Mahmoud Yousef.
                          Also worked as an Intern at Naztec Group as part of the curriculum.
                          Developed a Web Application to track the client billing details of the Naztec Consultants using Java Spring Framework.</p>
@@ -71,7 +79,7 @@ export default class Timeline extends Component {
                         <h2>Programmer Analyst at Cognizant Technology Solutions <span>May 2014 - Sep 2014</span></h2>
                         <p>Short term project to automate the e-commerce Java Web Application.
                         Developed a robust Automation Framework using Java Selenium WebDriver SDK to reduce the manual effort and cost.
-                        It also supports parallel execution and runs on multi Operating Systems</p>
+                        It also supports parallel execution and runs on multi Operating Systems. Technologies used: selenium, cucumber, TestNG, Java.</p>
                       </div>
                     </div>
                   </article>
@@ -95,7 +103,7 @@ export default class Timeline extends Component {
                         </div>
                         <div className="timeline-label">
                           <h2>Undergraduate from Jawaharlal Nehru Techonological University <span>Jun 2007 - Jul 2011</span></h2>
-                          <p>Undergraduate in Information Technology. Worked on interesting final project based on Co-Reference Resolution. The main goal of our project is to get the relevant information by resolving conflicts between noun and pronoun while retrieving data from the database.
+                          <p>Undergraduate in Information Technology. Worked on interesting final project based on Co-Reference Resolution. The main goal of our project is to get the relevant information by resolving conflicts between noun and pronoun while searching for the data from the database.
                            </p>
                         </div>
                         </div>

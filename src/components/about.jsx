@@ -15,7 +15,8 @@ export default class About extends Component {
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a computer Science grad student from University Of Central Missouri and Passionate about Cloud Technologies.
                        Currently Working at Cerner Corporation Kansas City as Associate Senior Software Engineer.
-                       Having a good knowledge on AWS I'm Looking for Opportunities in Java and Cloud technologies space. </p>
+                       Having a good knowledge on AWS I'm Looking for Opportunities in Java and Cloud technologies space.
+                       TO-DOOOOO</p>
                     </div>
                 </div>
                 </div>

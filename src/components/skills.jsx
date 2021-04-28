@@ -20,7 +20,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Java Technologies</h3>
-                    <p>Java8, J2EE, Eclipse RCP, Google Guice, <br/>Google Guava, SLF4J</p>
+                    <p>Java8, J2EE, Eclipse RCP, Spring boot<br/> Hibernate, Google Guice, JDBC</p>
                 </div>
                 </div>
             </div>
@@ -31,7 +31,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Development Tools</h3>
-                    <p>GitHub, SVN, Maven, Jenkins, <br/>Eclipse, IntelliJ, Docker</p>
+                    <p>GitHub, SVN, Maven, Jenkins, Eclipse, IntelliJ, <br/>SQL developer, Postman, Docker</p>
                 </div>
                 </div>
             </div>
@@ -42,7 +42,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Testing Technologies</h3>
-                    <p>Junit, Mockito, Selenium Web Driver, <br/>Cucumber</p>
+                    <p>Junit, Mockito, Selenium Web Driver, <br/>Cucumber, TestNG, JSoup</p>
                 </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Cloud Technologies</h3>
-                    <p>Amazon S3, Lambdas, DynamoDB, <br/> API Gateway</p>
+                    <p>Amazon S3, Lambdas, DynamoDB, <br/> API Gateway, SNS</p>
                 </div>
                 </div>
             </div>
