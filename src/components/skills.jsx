@@ -63,8 +63,8 @@ export default class Skills extends Component {
                     <i className="icon-image" />
                 </span>
                 <div className="desc">
-                    <h3>UI Technologies</h3>
-                    <p>SWT, JFace, HTML, JavaScript, <br/>ReactJs</p>
+                    <h3>Web Technologies</h3>
+                    <p>SWT, JFace, HTML, JavaScript, <br/>ReactJs, Jersey Restful Web Service</p>
                 </div>
                 </div>
             </div>

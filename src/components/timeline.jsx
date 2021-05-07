@@ -23,12 +23,12 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Associate Senior Software Engineer at Cerner Corporation <span>Nov 2017-present</span></h2>
                         <p>Current Projects:<br/>
-                        <u>Project#1</u>: The goal of this project is to provide consumers(cerner millennium teams) various services, API's which serves them to perform 
+                        <u>Project#1</u>: The goal of this project is to provide consumers(cerner millennium solutions teams) various services, API's which serves them to perform 
                         Read, Write, Update, Delete on the Clinical Event Model. This Clinical Event Data model is responsible for holding almost 50% of EHR information such as testing, treatment
                         and diagnostic events that are stored as clinical events. Millennium solutions teams request EHR information from this clinical event model and there are many ways the clinicians
                         can view the data. Our team provides many Java services and API's to support the different ways the clinicians requests for the result data.
                         Overall, I'm a senior engineer on this millennium backend services team who is responsible for developing the enterprise java services and API's efficiently and safely. 
-                        The Tech stack we use to develop the services are Java8, Enterprise Java service(EJS), JDBC, Hibernate, SQL, Google Guice and cucumber for integration tests. 
+                        The Tech stack we use to develop the services are Java8, Enterprise Java service(EJS), JDBC, Hibernate, Jersey REST, SQL, Google Guice and cucumber for integration tests. 
                         <br/>
                         <u>Project#2</u>: This project focuses on improving the scalability of the Cerner Millennium System.
                         The Goal of the project is to reduce the Oracle usage and the cost by moving clinical documents(BLOB Data) from Oracle Clinical tables to AWS Simple Storage Service(S3).

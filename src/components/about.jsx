@@ -13,10 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer Science grad student from University Of Central Missouri and Passionate about Cloud Technologies.
-                       Currently Working at Cerner Corporation Kansas City as Associate Senior Software Engineer.
-                       Having a good knowledge on AWS I'm Looking for Opportunities in Java and Cloud technologies space.
-                       TO-DOOOOO</p>
+                    <p>Experienced Software Engineer and computer science graduate with Strong engineering professional skills in Java stack, 
+                      relational and non-relational databases and aws cloud technologies.</p>
                     </div>
                 </div>
                 </div>
