@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Associate Senior Software Engineer at Cerner Corporation <span>Nov 2017-present</span></h2>
+                        <h2>Software Engineer Ⅱ at Cerner Corporation <span>Nov 2017-present</span></h2>
                         <p>Current Projects:<br/>
                         <u>Project#1</u>: The goal of this project is to provide consumers(cerner millennium solutions teams) various services, API's which serves them to perform 
                         Read, Write, Update, Delete on the Clinical Event Model. This Clinical Event Data model is responsible for holding almost 50% of EHR information such as testing, treatment
